@@ -1,4 +1,4 @@
-﻿namespace EMerx.Entities;
+﻿namespace EMerx_backend.Entities;
 
 public class User : BaseEntity
 {
