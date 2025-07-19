@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace EMerx.Entities;
+namespace EMerx_backend.Entities;
 
 public abstract class BaseEntity
 {
